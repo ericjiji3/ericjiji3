@@ -3,7 +3,7 @@
 ### Frontend development is my passion 🌐
 ### Probably working on something I think will be cool but gonna turn out mid 🤪
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericjiji3&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericjiji3&show_icons=true&theme=transparent&rank_icon=github&border_color=DF2935)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericjiji3)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ericjiji3/ericjiji3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
